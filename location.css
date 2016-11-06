@@ -1,0 +1,54 @@
+html {
+     height: 100%;
+     background-color:#02A8FF;
+   }
+   body {
+      height: 100%;
+   }
+
+   header {
+       background-color:;
+       padding:0px;
+       font-size: 60;
+       display: block;
+       width: 1190px;
+   }
+   nav {
+       line-height:;
+       background-color:#02CCFF;
+       width:125px;
+       display: inline-block;
+       vertical-align: top;
+       nav {
+       float: right;
+   }
+
+   section {
+       width: 516px;
+       display: inline-block;
+   }
+   aside {
+     width: 125px;
+     display: inline-block;
+     vertical-align: top;
+     background-color:;
+     font-size: ;
+   }
+   aside ul {
+       list-style-type: none;
+   }
+   footer {
+       width: 790px;
+       background-color:;
+       text-align:;
+       padding:5px;
+       display: block;
+   }
+
+   .credit {
+     background color yellow;
+   }
+   .droneclass {
+     width:400px;
+     height:400px;
+   }
